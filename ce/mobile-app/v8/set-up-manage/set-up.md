@@ -72,7 +72,7 @@ Microsoft Dynamics 365 (online) organizations using Dynamics 365 for tablets req
 2.  Click **Security Roles**.  
   
 3.  Choose a security role > **Customization** tab. Verify that the **Read** permission is set for the following entities:  
-  
+   
     -   Custom Control  
   
     -   Custom Control Default Config  
@@ -86,6 +86,10 @@ Microsoft Dynamics 365 (online) organizations using Dynamics 365 for tablets req
     -   User Application Metadata  
   
     -   View  
+    
+    -   App
+    
+    -   App Config Master
   
 4.  Choose a security role > **Business Management** tab. Verify that the **Read** permission is set for the following entity:  
   
